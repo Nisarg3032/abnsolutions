@@ -1,3 +1,6 @@
+.main{
+  overflow-x: hidden;
+}
 .sect30{
   display: none;
 }

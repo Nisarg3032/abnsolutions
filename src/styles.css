@@ -3,7 +3,6 @@ body{
   background-image: url("../src/assets/images/Group 296.png");
   background-size: 100%;
   background-repeat: no-repeat;
-  overflow-x: hidden;
   height: 911px;
   font-family: 'DM Sans';
   font-style: normal;
@@ -12,7 +11,6 @@ body{
 @media screen and (max-width:768px)
 {
   body{
-    overflow-x: hidden;
     height: 800px;
   }
 
@@ -22,7 +20,11 @@ body{
 @media screen and (max-width:480px)
 {
   body{
-    overflow-x: hidden;
+    background-image: url("../src/assets/images/Group 296.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'DM Sans';
+    font-style: normal;
     height: 700px;
   }
 

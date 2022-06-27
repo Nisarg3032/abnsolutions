@@ -2,6 +2,7 @@
   background-color: #1E1E1E;
   color: white;
   height: 350px;
+  overflow-x: hidden;
 }
 ul{
   list-style-type: none;
