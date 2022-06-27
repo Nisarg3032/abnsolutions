@@ -12,7 +12,8 @@ body{
 @media screen and (max-width:768px)
 {
   body{
-    height: 400px;
+    overflow-x: hidden;
+    height: 800px;
   }
 
 }
@@ -21,7 +22,8 @@ body{
 @media screen and (max-width:480px)
 {
   body{
-    height: 500px;
+    overflow-x: hidden;
+    height: 700px;
   }
 
 }
