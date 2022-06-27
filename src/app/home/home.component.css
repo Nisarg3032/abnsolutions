@@ -709,6 +709,9 @@ span{
     display: none;
     margin-left: 0px;
   }
+  .sec24{
+    display: none;
+  }
   .web{
     display: block;
     margin-left: auto;
