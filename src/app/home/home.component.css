@@ -672,7 +672,7 @@ span{
   }
   .sect3{
     background-color: #F48574;
-    padding: 8px 160px;
+    padding: 8px 120px;
     margin-top: 0px;
   }
   span{
@@ -767,7 +767,7 @@ span{
     margin-left: 0px;
   }
   .sec32{
-    margin-left: 65px;
+    margin-left: 45px;
     margin-bottom: 35px;
     background-color: #F48574;
     padding: 5px 110px;
@@ -875,16 +875,16 @@ span{
     width: 374px;
     height: 48px;
     margin-top: 130px;
-    margin-left: 50px;
+    margin-left: 0px;
   }
   .ic{
     position: absolute;
-    left: 65px;
+    left: 5px;
     margin-top: 16px;
     color: black;
   }
   .b1{
-    margin-left: 334px;
+    margin-left: 234px;
     margin-top: -77px;
     color: white;
     padding: 5px 15px;
