@@ -70,6 +70,7 @@ li
 }
 
 .b1{
+  display: none;
   margin-left: 180px;
   margin-right: 0px;
   padding: 3px 10px;

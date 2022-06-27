@@ -15,6 +15,7 @@
 }
 .he4{
   background-color: #F48574;
+  color: white;
   margin-left: 60px;
   padding: 8px 110px;
 }
@@ -63,6 +64,7 @@
 }
 .sect3{
   background-color: #F48574;
+  color: white;
   padding: 8px 160px;
   margin-top: 50px;
 }
@@ -149,6 +151,7 @@ span{
 .sec32{
   margin-left: 50px;
   background-color: #F48574;
+  color: white;
   padding: 5px 110px;
 }
 .sec5{
@@ -614,6 +617,7 @@ span{
   }
   .he4{
     background-color: #F48574;
+    color: white;
     margin-left: 45px;
     padding: 8px 110px;
   }
@@ -672,6 +676,7 @@ span{
   }
   .sect3{
     background-color: #F48574;
+    color: white;
     padding: 8px 120px;
     margin-top: 0px;
   }
@@ -770,6 +775,7 @@ span{
     margin-left: 45px;
     margin-bottom: 35px;
     background-color: #F48574;
+    color: white;
     padding: 5px 110px;
   }
   .img4{
@@ -859,35 +865,36 @@ span{
   .sec15{
     text-align: center;
     color: white;
-    margin-top: 50px;
-    padding-top: 50px;
+    margin-top: 0px;
+    padding-top: 20px;
   }
   .sec13{
-    background-image: url("../../assets/images/Subscribe.png");
+    background-image: url("../../assets/images/Subscribe1.png");
     background-repeat: no-repeat;
-    width: auto;
-    height: auto;
+    background-position: center;
+    width: 396px;
+    height: 133px;
     margin-left: 0px;
   }
   .in{
-    border-radius: 10px;
+    border-radius: 5px;
     border: none;
-    width: 374px;
-    height: 48px;
-    margin-top: 130px;
-    margin-left: 0px;
+    width: 274px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 73px;
   }
   .ic{
     position: absolute;
-    left: 5px;
-    margin-top: 16px;
+    left: 85px;
+    margin-top: 8px;
     color: black;
   }
   .b1{
-    margin-left: 234px;
-    margin-top: -77px;
+    margin-left: 273px;
+    margin-top: -57px;
     color: white;
-    padding: 5px 15px;
+    padding: 0px 5px;
   }
   .ch1{
     margin-top: 20px;
