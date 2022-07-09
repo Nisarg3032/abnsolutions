@@ -20,15 +20,7 @@ ul{
 .copy{
   margin-left: 80px;
 }
-.abn{
-  padding-left: 60px;
-}
-.abn1{
-  padding-left: 180px;
-}
-.abn2{
-  padding-left: 100px;
-}
+
 
 
 
@@ -58,18 +50,6 @@ ul{
   .copy{
     text-align: center;
     margin-left: 0px;
-  }
-  .abn{
-    text-align: center;
-    padding-left: 0px;
-  }
-  .abn1{
-    text-align: center;
-    padding-left: 0px;
-  }
-  .abn2{
-    text-align: center;
-    padding-left: 0px;
   }
 
 }
@@ -102,16 +82,5 @@ ul{
     text-align: center;
     margin-left: 0px;
   }
-  .abn{
-    text-align: center;
-    padding-left: 0px;
-  }
-  .abn1{
-    text-align: center;
-    padding-left: 0px;
-  }
-  .abn2{
-    text-align: center;
-    padding-left: 0px;
-  }
+
 }
