@@ -239,7 +239,6 @@ span{
 .sec13{
   background-image: url("../../assets/images/Subscribe.png");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center;
   width: 100%;
   height: 100%;
@@ -552,11 +551,7 @@ span{
     padding-top: 50px;
   }
   .sec13{
-    background-image: url("../../assets/images/Subscribe.png");
-    background-repeat: no-repeat;
-    width: 768px;
-    height: 416px;
-    margin-left: 0px;
+    display: none;
   }
   .in{
     border-radius: 10px;
@@ -919,4 +914,7 @@ span{
     height: 100%;
   }
 
+  .sec11{
+    display: none;
+  }
 }
