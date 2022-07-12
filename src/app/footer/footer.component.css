@@ -20,6 +20,10 @@ ul{
 .copy{
   margin-left: 80px;
 }
+li a {
+  text-decoration: none;
+  color: white;
+}
 
 
 
