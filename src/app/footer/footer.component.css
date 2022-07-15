@@ -1,25 +1,31 @@
-.footer{
+.footer {
   background-color: #1E1E1E;
   color: white;
   height: 350px;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
-ul{
+
+ul {
   list-style-type: none;
 }
-.sec2{
+
+.sec2 {
   padding-top: 100px;
 }
-.sec{
+
+.sec {
   padding-top: 50px;
 }
-.term
-{
+
+.term {
   margin-left: 450px;
 }
-.copy{
+
+.copy {
   margin-left: 80px;
 }
+
 li a {
   text-decoration: none;
   color: white;
@@ -28,30 +34,33 @@ li a {
 
 
 
-@media screen and (max-width:768px)
-{
-  .footer{
+@media screen and (max-width:768px) {
+  .footer {
     background-color: #1E1E1E;
     color: white;
     height: 650px;
   }
-  ul{
+
+  ul {
     list-style-type: none;
   }
-  .sec2{
+
+  .sec2 {
     text-align: center;
     padding-top: 0px;
   }
-  .sec{
+
+  .sec {
     text-align: center;
     padding-top: 0px;
   }
-  .term
-  {
+
+  .term {
     text-align: center;
     margin-left: 0px;
   }
-  .copy{
+
+  .copy {
     text-align: center;
     margin-left: 0px;
   }
@@ -59,30 +68,33 @@ li a {
 }
 
 
-@media screen and (max-width:480px)
-{
-  .footer{
+@media screen and (max-width:480px) {
+  .footer {
     background-color: #1E1E1E;
     color: white;
     height: 620px;
   }
-  ul{
+
+  ul {
     list-style-type: none;
   }
-  .sec2{
+
+  .sec2 {
     text-align: center;
     padding-top: 0px;
   }
-  .sec{
+
+  .sec {
     text-align: center;
     padding-top: 0px;
   }
-  .term
-  {
+
+  .term {
     text-align: center;
     margin-left: 0px;
   }
-  .copy{
+
+  .copy {
     text-align: center;
     margin-left: 0px;
   }

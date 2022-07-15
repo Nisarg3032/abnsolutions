@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-body{
+body {
   background-image: url("../src/assets/images/Group 296.png");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -8,18 +8,16 @@ body{
   font-style: normal;
 }
 
-@media screen and (max-width:768px)
-{
-  body{
+@media screen and (max-width:768px) {
+  body {
     height: 800px;
   }
 
 }
 
 
-@media screen and (max-width:480px)
-{
-  body{
+@media screen and (max-width:480px) {
+  body {
     background-image: url("../src/assets/images/Group 296.png");
     background-size: 100%;
     background-repeat: no-repeat;

@@ -1,0 +1,29 @@
+<section class="contact">
+  <div class="container"><br>
+    <h2 style="font-weight: 900; color: #F48574;">Contact Us</h2>
+    <p style="font-size: larger;">Our Friendly Team would love to hear your Problem, <br> We'll give the
+      best solution for you.</p>
+  </div><br><br>
+  <div class="container">
+    <div class="row">
+      <div class="col-6">
+        <form [formGroup]="contactForms" >
+        <label for="name">Name</label>
+          <input type="text" class="form-control" formControlName="name" placeholder="Enter your Name"><br>
+          <label for="email">Email-id</label>
+          <input type="email" class="form-control" formControlName="email" placeholder="Enter your Email-id"><br>
+          <label for="mobile">Contact No</label>
+          <input type="text" class="form-control" formControlName="mobile" placeholder="Enter your Mobile No."><br>
+          <label for="message">Message</label>
+          <textarea class="form-control" formControlName="message" placeholder="Leave your Message here"></textarea><br>
+          <button type="reset" class="btn btn-primary" (click)="submitmessage()">Send</button>
+          <p *ngIf="isSubmit" class="submitMessage">{{submitMessage}}</p>
+        </form>
+      </div>
+      <div class="col-6">
+        <img src="../../assets/images/contact-us1.jpg" alt="" class="contact-us">
+      </div>
+    </div>
+  </div>
+
+</section>
