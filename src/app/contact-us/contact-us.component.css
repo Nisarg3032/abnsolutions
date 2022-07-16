@@ -13,3 +13,25 @@
   height: 100%;
   border-radius: 20px;
 }
+.mobile{
+  display: none;
+}
+
+
+
+
+@media screen and (max-width:480px) {
+  .mobile{
+    display: block;
+  }
+  .web{
+    display: none;
+  }
+  h2{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+
+}
